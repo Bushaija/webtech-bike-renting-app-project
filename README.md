@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Kigali Bikes Renting App documentation, a comprehensive guide for the full-stack project designed to facilitate bike rentals. This project is developed by **MUGISHA Robert** (Student ID: *23443*) as part of the *Web Technology* course (*INSY 8322*) under the guidance of Professor *DUSHIMIMANA Patrick*.
+Welcome to the Kigali Bikes Renting App documentation, a comprehensive guide for the full-stack project designed to facilitate bike rentals. This project is developed by **MUGISHA Robert** (Student ID: *23443*) as part of the **Web Technology** course (*INSY 8322*) under the guidance of Professor **DUSHIMIMANA Patrick**.
 
 ## Backend Technologies
 
