@@ -62,20 +62,24 @@ The MySQL database serves as the repository for essential application data:
    ```bash
    git clone https://github.com/Bushaija/webtech-bike-renting-app-project.git)https://github.com/Bushaija/webtech-bike-renting-app-project.git
 
-2. ### Navigate to the Backend Directory:
+2. #### Navigate to the Backend Directory:
+
 ```bash
-cd kigaliBikes-server/
-./mvnw spring-boot:run
+   cd kigaliBikes-server/
+   ./mvnw spring-boot:run
+```
 
 #### Navigate to the Frontend Directory
 ```bash
 cd kigaliBikes-client/
+```
 
 #### Install Dependencies
 ```bash
 npm install
+```
 
 #### Run the Vite-React Application
 ```bash
 npm run dev
-
+```
