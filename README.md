@@ -1,4 +1,4 @@
-# Kigali Bikes Renting App Documentation
+# 🚲 Kigali Bikes Renting App Documentation
 
 ## Overview
 
@@ -6,7 +6,7 @@ Welcome to the Kigali Bikes Renting App documentation, a comprehensive guide for
 
 ## Backend Technologies
 
-### Spring Boot REST API
+### Spring Boot REST API 🌐
 
 The backend of the Kigali Bikes Renting App features a robust RESTful API with the following key components:
 
@@ -14,7 +14,7 @@ The backend of the Kigali Bikes Renting App features a robust RESTful API with t
 - **CRUD Operations**: Endpoints for managing bikes, reservations, rides, stations, payments, and user profiles.
 - **Validation and Error Handling**: Implementation of thorough validation and error handling mechanisms for input data.
 
-### MySQL Database
+### MySQL Database 🗃️
 
 The MySQL database serves as the repository for essential application data:
 
@@ -22,34 +22,34 @@ The MySQL database serves as the repository for essential application data:
 - **Relationships**: Clearly documented relationships between database tables.
 - **Setup Instructions**: Detailed guidance on setting up the database schema.
 
-### JWT Authentication
+### JWT Authentication 🔐
 
 - **Implementation**: A secure JWT-based authentication flow.
 - **Configuration**: In-depth details on configuring and managing JWT tokens.
 
 ## Frontend Technologies
 
-### Vite - React Project Structure
+### Vite - React Project Structure 🌐
 
 - **Project Structure**: An overview of the project structure created by Vite.
 - **Custom Configurations**: Explanation of any additional configurations or settings.
 
-### React Components
+### React Components ⚛️
 
 - **Key Components**: List and description of important React components.
 - **Hierarchy**: Explanation of component hierarchy and interactions.
 
-### Tailwind CSS
+### Tailwind CSS 🎨
 
 - **Integration**: Explanation of the integration of Tailwind CSS.
 - **Utility Classes**: Documentation of key utility classes used for styling.
 
-### Axios for API Communication
+### Axios for API Communication 📡
 
 - **Usage**: Description of how Axios is employed for making API requests.
 - **Examples**: Illustrative examples of API calls and handling responses.
 
-### React-toastify for Notifications
+### React-toastify for Notifications 📢
 
 - **Integration**: Explanation of how React-toastify is integrated for displaying notifications.
 - **Components**: Documentation of notification components and usage patterns.
